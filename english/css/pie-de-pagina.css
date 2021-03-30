@@ -1,0 +1,20 @@
+.pie-de-pagina {
+    background: #fff;
+}
+
+.pie-de-pagina h6 {
+    color: gray;
+    font-size: 15px;
+    font-family: 'Anton', sans-serif;
+}
+
+hr {
+    color: green;
+}
+
+.de p {
+    font-family: 'Kiwi Maru', serif;
+    font-size: 20px;
+    text-align: right;
+    text-decoration: grey;
+}
